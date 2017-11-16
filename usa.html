@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
+		<script src="usa.js"></script>
+    </head>
+    <body>
+    	<div id="container" style="position: relative; width: 1000px; height: 600px;"></div>
+		<script>
+		    var map = new Datamap({
+		        element: document.getElementById('container'),
+		        scope: 'usa',
+		        dataType: 'json', //for use with dataUrl, currently 'json' or 'csv'. CSV should have an `id` column
+		    dataUrl: null,
+		    geographyConfig: {
+		        dataUrl: null, //if not null, datamaps will fetch the map JSON (currently only supports topojson)
+		        hideAntarctica: true,
+		        borderWidth: 1,
+		        borderOpacity: 1,
+		        borderColor: '#FDFDFD',
+		        popupTemplate: function(geography, data) { //this function should just return a string
+		          return '<div class="hoverinfo"><strong>' + geography.properties.name + '</strong></div>';
+		        },
+		        popupOnHover: true, //disable the popup while hovering
+		        highlightOnHover: true,
+		        highlightFillColor: '#FC8D59',
+		        highlightBorderColor: 'rgba(250, 15, 160, 0.2)',
+		        highlightBorderWidth: 2,
+		        highlightBorderOpacity: 1
+		    },
+		        done: function(datamap) {
+		            datamap.svg.selectAll('.datamaps-subunit').each(function(geography) {
+		                console.log(geography.properties.name);
+		            });
+		        }
+
+		    });
+		</script>
+	</body>
+</html>

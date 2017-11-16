@@ -1,0 +1,259 @@
+{ "states": 
+	[
+		{"name": "Alabama", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Alaska", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Arizona", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Arkansas", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "California", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Colorado", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Connecticut", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Delaware", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "District of Columbia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Florida", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Georgia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Hawaii", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Idaho", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Illinois", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Indiana", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Iowa", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Kansas", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Kentucky", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Louisiana", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Maine", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Maryland", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Massachusetts", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Michigan", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Minnesota", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Mississippi", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Missouri", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Montana", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Nebraska", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Nevada", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "New Hampshire", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "New Jersey", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "New Mexico", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "New York", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "North Carolina", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "North Dakota", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Ohio", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Oklahoma", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Oregon", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Pennsylvania", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Rhode Island", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "South Carolina", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "South Dakota", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Tennessee", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Texas", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Utah", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Vermont", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Virginia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Washington", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "West Virginia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Wisconsin", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Wyoming", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	]
+}

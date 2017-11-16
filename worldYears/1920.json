@@ -1,0 +1,889 @@
+{ "countries": 
+	[
+		{"name": "Afghanistan", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Angola", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Albania", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "United Arab Emirates", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Argentina", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Armenia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "French Southern and Antarctic Lands", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Australia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Austria", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Azerbaijan", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Burundi", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Belgium", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Benin", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Burkina Faso", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Bangladesh", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Bulgaria", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "The Bahamas", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Bosnia and Herzegovina", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Belarus", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Belize", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Bolivia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Brazil", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Brunei", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Bhutan", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Botswana", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Central African Republic", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Canada", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Switzerland", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Chile", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "China", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Ivory Coast", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Cameroon", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Democratic Republic of the Congo", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Republic of the Congo", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Colombia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Costa Rica", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Cuba", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Northern Cyprus", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Cyprus", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Czech Republic", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Germany", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Djibouti", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Denmark", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Dominican Republic", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Algeria", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Ecuador", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Egypt", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Eritrea", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Spain", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Estonia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Ethiopia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Finland", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Fiji", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Falkland Islands", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "France", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "French Guiana", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Gabon", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "United Kingdom", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Georgia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Ghana", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Guinea", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Gambia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Guinea Bissau", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Equatorial Guinea", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Greece", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Greenland", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Guatemala", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Guyana", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Honduras", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Croatia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Haiti", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Hungary", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Indonesia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "India", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Ireland", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Iran", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Iraq", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Iceland", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Israel", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Italy", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Jamaica", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Jordan", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Japan", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Kazakhstan", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Kenya", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Kyrgyzstan", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Cambodia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "South Korea", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Kosovo", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Kuwait", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Laos", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Lebanon", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Liberia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Libya", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Sri Lanka", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Lesotho", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Lithuania", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Luxembourg", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Latvia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Morocco", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Moldova", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Madagascar", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Mexico", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Macedonia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Mali", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Myanmar", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Montenegro", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Mongolia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Mozambique", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Mauritania", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Malawi", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Malaysia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Namibia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "New Caledonia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Niger", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Nigeria", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Nicaragua", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Netherlands", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Norway", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Nepal", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "New Zealand", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Oman", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Pakistan", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Panama", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Peru", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Philippines", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Papua New Guinea", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Poland", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Puerto Rico", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "North Korea", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Portugal", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Paraguay", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Qatar", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Romania", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Russia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Rwanda", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Western Sahara", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Saudi Arabia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Sudan", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "South Sudan", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Senegal", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Solomon Islands", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Sierra Leone", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "El Salvador", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Somaliland", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Somalia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Republic of Serbia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Suriname", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Slovakia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Slovenia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Sweden", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Swaziland", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Syria", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Chad", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Togo", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Thailand", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Tajikistan", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Turkmenistan", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "East Timor", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Trinidad and Tobago", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Tunisia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Turkey", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Taiwan", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "United Republic of Tanzania", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Uganda", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Ukraine", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Uruguay", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "United States of America", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Uzbekistan", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Venezuela", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Vietnam", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Vanuatu", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "West Bank", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Yemen", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "South Africa", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Zambia", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		{"name": "Zimbabwe", 
+			"numMassShootings": 0, 
+			"gunLaws": "nonexistent"
+		}
+			//- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	]
+}
